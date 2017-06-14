@@ -1,4 +1,4 @@
-yamllinter
+yamllint
 ---
 
 A linter for YAML files on Alpine Linux.
